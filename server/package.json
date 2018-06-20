@@ -1,0 +1,28 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "build": "^0.1.4",
+    "configure": "0.0.1",
+    "kcors": "^2.2.1",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-cors": "0.0.16",
+    "koa-router": "^7.4.0",
+    "koa-session2": "^2.2.6",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "node-waf": "^1.0.0",
+    "sequelize": "^4.37.10",
+    "socket.io": "^2.1.1"
+  }
+}
